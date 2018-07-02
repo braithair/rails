@@ -5,7 +5,7 @@ A Rails code repository
 --Contents--
 
 1. Platform
-  a. Amazon EC2 Instance 
+	a. Amazon EC2 Instance 
 2.  Ruby
   a. Installing Ruby
 3.  Rails
