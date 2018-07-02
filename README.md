@@ -6,13 +6,13 @@ A Rails code repository
 --Contents--
 
 1. Platform
-Amazon EC2 Instance 
+-- Amazon EC2 Instance 
 
 2.  Ruby
-Installing Ruby
+-- Installing Ruby
 
 3.  Rails
-Installing Rails
+-- Installing Rails
 
 
 --Details --
