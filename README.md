@@ -51,6 +51,8 @@ Once you have Ruby, you can install Rails knowing you have some necessary pieces
     iii.  Installing Rails
     iv.   Creating the 'Blog' tutorial application
     v.    Starting the web server.
-    vi.   Setup up and using rails (multiple steps from sections 4.2 to 9)
+    vi.   Setup and using rails (multiple steps from sections 4.2 to 9)
     
   All the important stuff happens in sections 4.2 through to 9.
+  
+  vi. Setup and using Rails. I installed rails blog from 4.2 in /src
