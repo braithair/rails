@@ -1,5 +1,6 @@
 # rails
 A Rails code repository
+2018-07-02
 
 --Contents--
 
@@ -10,7 +11,8 @@ A Rails code repository
 3.  Rails
   a. Installing Rails
 
--- --
+
+--Details --
 1. Platform
 It was decided that an EC2 instance on AWS would be suitable to begin with at it is free.
 The instance under Utilisation is operated by 'braithair'.
