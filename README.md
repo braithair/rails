@@ -68,7 +68,17 @@ Once you have Ruby, you can install Rails knowing you have some necessary pieces
   The above will make file and routes for you. So next path to your newly created folder which will be where you installed the Blog as part of sectiont 3aiv above. Mine was in /src/blog/app/views/velcome . From there vim the "index.html.erb" file and add a h1 heading html tag and the text: "How bouh dah". Then close the tag and write the file.
   
   d. Setting the home page
- Go to: the 'config' directory in your blog folder. mine was in /src/blog/config. Use VIM to edit the "routes.rb" file. Add into the 'routes.rb' file: root 'welcome#index'. Then save the file
+ Go to: the 'config' directory in your blog folder. mine was in /src/blog/config. Use VIM to edit the "routes.rb" file. Add into the 'routes.rb' file: root 'welcome#index'. Then save the file.
+ 
+ Make sure you are in your blog folder now, to start the server. My blog file is in /src/blog. Change directory to there first, and then run: $   bin/rails server -p 3000 -b 172.x.y.z (x.y.z is your instance IP)
+ 
+ Boom! You did it, you should get a webpage with "How Bouh Dah!". Now Ctrl + C and stop the server.
+ 
+  e. Getting up and Running
+  Add the line in to the "routes.rb" config files as seen in step 5 of thsi guide: http://guides.rubyonrails.org/getting_started.html
+  
+  
+  
  
   
   
