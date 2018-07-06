@@ -65,7 +65,7 @@ Once you have Ruby, you can install Rails knowing you have some necessary pieces
   c. Getting Rails to say "Hello"
   Run: $   bin/rails generate controller Welcome index.
   
-  The above will make file and routes for you. So next path to your newly created folder which will be where you installed the Blog as part of sectiont 3aiv above. Mine was in /src/blog/app/views/velcome . From there vim the "index.html.erb" file and add a h1 heading html tag and the text: "How bouh dah". Then close the tag and write the file.
+  The above will make file and routes for you. So next path to your newly created folder which will be where you installed the Blog as part of sectiont 3aiv above. Mine was in /src/blog/app/views/welcome . From there vim the "index.html.erb" file and add a h1 heading html tag and the text: "How bouh dah". Then close the tag and write the file.
   
   d. Setting the home page
  Go to: the 'config' directory in your blog folder. mine was in /src/blog/config. Use VIM to edit the "routes.rb" file. Add into the 'routes.rb' file: root 'welcome#index'. Then save the file.
